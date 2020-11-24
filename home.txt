@@ -1,0 +1,19 @@
+<!DOCTYPE html <html>
+<head>
+<title>HOME</title>
+    </head>
+    <body>
+
+<form action="http://pluto.hood.edu/~lmt18/displayUsers.php">
+    <input type="submit" value="Display all of the users" />
+</form>
+
+<form action="http://pluto.hood.edu/~lmt18/addUser.html">
+    <input type="submit" value="Insert a new user" />
+</form>
+
+<form action="http://pluto.hood.edu/~lmt18/deleteUser.html">
+    <input type="submit" value="Delete user" />
+</form>
+    </body>
+</html>
